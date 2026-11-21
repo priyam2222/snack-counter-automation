@@ -3,7 +3,7 @@ SNACK COUNTER AUTOMATION
 Software Architecture, Solution Design
 & Future Roadmap
 
-Version 1.1  |  Updated MVP design  |  21 November 2026
+Version 1.2  |  Updated MVP design  |  21 November 2026
 
 ## 1. Executive Summary
 
